@@ -1,0 +1,27 @@
+
+body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  align-content: center;
+  justify-content: flex-start;
+
+  /* text-align: center; */
+  background-color: aqua;
+}
+
+h1 {
+  color: blueviolet;
+  font-family: monospace;
+  font-size: 50px;
+}
+
+.post {
+  background-color: blue;
+  width: 80%;
+
+  padding: 5px;
+  border-radius: 5px;
+  margin: 5px;
+}
