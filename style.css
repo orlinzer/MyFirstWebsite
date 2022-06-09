@@ -1,3 +1,7 @@
+html {
+  font-family: cursive;
+  font-size: 16px;
+}
 
 body {
   display: flex;
@@ -13,8 +17,6 @@ body {
 
 h1 {
   color: blueviolet;
-  font-family: monospace;
-  font-size: 50px;
 }
 
 .post {
@@ -25,3 +27,12 @@ h1 {
   border-radius: 5px;
   margin: 5px;
 }
+
+img {
+  margin: 10px;
+}
+
+input {
+  margin: 10px;
+}
+
